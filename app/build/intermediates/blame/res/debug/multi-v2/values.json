@@ -1,6 +1,28 @@
 {
     "logs": [
         {
+            "outputFile": "D:\\srcCategory\\SubModule\\BiDirecSeekBar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\srcCategory\\SubModule\\BiDirecSeekBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "121,59",
+                        "endColumns": "45,60",
+                        "endOffsets": "162,115"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,60",
+                        "endOffsets": "96,157"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "D:\\srcCategory\\record_screen_tool\\RecordMySelf\\yaoRange\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
